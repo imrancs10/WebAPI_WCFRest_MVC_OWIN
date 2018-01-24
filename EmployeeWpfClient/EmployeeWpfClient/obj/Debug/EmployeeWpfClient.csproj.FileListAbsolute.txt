@@ -1,0 +1,42 @@
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\bin\Debug\EmployeeWpfClient.exe.config
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\bin\Debug\EmployeeWpfClient.exe
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\bin\Debug\EmployeeWpfClient.pdb
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.csprojResolveAssemblyReference.cache
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\MainWindow.g.cs
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\App.g.cs
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient_MarkupCompile.cache
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient_MarkupCompile.lref
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\MainWindow.baml
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.g.resources
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.Properties.Resources.resources
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.csproj.GenerateResource.Cache
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.csproj.CoreCompileInputs.cache
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.exe
+c:\users\amit1437\source\repos\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\bin\Debug\EmployeeWpfClient.exe.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\bin\Debug\EmployeeWpfClient.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\bin\Debug\EmployeeWpfClient.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\MainWindow.g.cs
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\App.g.cs
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient_MarkupCompile.cache
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient_MarkupCompile.lref
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\MainWindow.baml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.g.resources
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.Properties.Resources.resources
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.csproj.GenerateResource.Cache
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.pdb
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\bin\Debug\EmployeeWpfClient.exe.config
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\bin\Debug\EmployeeWpfClient.exe
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\bin\Debug\EmployeeWpfClient.pdb
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\MainWindow.g.cs
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\App.g.cs
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient_MarkupCompile.cache
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient_MarkupCompile.lref
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\MainWindow.baml
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.g.resources
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.Properties.Resources.resources
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.csproj.GenerateResource.Cache
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.exe
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.pdb
+D:\BitBucket\EmployeeWpfClient\EmployeeWpfClient\obj\Debug\EmployeeWpfClient.csprojResolveAssemblyReference.cache

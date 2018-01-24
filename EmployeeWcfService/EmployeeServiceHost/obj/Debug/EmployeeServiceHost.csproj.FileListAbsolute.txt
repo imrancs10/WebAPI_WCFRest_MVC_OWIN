@@ -1,0 +1,28 @@
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.dll
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.pdb
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.dll.config
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+c:\users\amit1437\source\repos\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.dll.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
+D:\BitBucket\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+D:\BitBucket\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+D:\BitBucket\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+D:\BitBucket\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.dll
+D:\BitBucket\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.pdb
+D:\BitBucket\EmployeeWcfService\EmployeeServiceHost\bin\Debug\EmployeeWcfService.dll.config
+D:\BitBucket\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojResolveAssemblyReference.cache
+D:\BitBucket\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+D:\BitBucket\EmployeeWcfService\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb

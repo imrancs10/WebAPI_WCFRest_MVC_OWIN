@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+
+<script src="~/Content/JS/user.js"></script>
+<div class="col-md-10 col-md-offset-1">
+    <div class="well">
+        <table class="table table-bordered">
+            <thead>
+                <tr class="success">
+                    <th colspan="2">
+                        User Login
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>User Name</td>
+                    <td>
+                        <input type="text" id="txtUserName"
+                               placeholder="User Name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                    <td>
+                        <input type="password" id="txtPassword"
+                               placeholder="Password" />
+                    </td>
+                </tr>
+                <tr class="success">
+                    <td></td>
+                    <td>
+                        <input id="btnLogin" class="btn btn-success"
+                               type="button" value="Login" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,258 @@
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\csc.exe
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\csc.exe.config
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\csc.rsp
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\csi.exe
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\csi.rsp
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\System.AppContext.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\vbc.exe
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\vbc.exe.config
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\vbc.rsp
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\VBCSCompiler.exe
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EmployeeMvcApp.dll.config
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EmployeeMvcApp.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EmployeeMvcApp.pdb
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EmployeeApi.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EntityFramework.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EntityFramework.SqlServer.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Net.Http.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Net.Http.Extensions.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Net.Http.Formatting.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Net.Http.Primitives.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Net.Http.WebRequest.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Helpers.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Mvc.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Razor.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Webpages.Deployment.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Webpages.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Webpages.Razor.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\WebActivatorEx.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.Owin.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Swashbuckle.Core.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Http.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Owin.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Http.Cors.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Http.WebHost.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Newtonsoft.Json.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.Owin.Cors.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.Owin.Security.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Cors.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EmployeeApi.pdb
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EmployeeApi.dll.config
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EntityFramework.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\EntityFramework.SqlServer.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Net.Http.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Net.Http.WebRequest.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Razor.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Webpages.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Webpages.Deployment.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Webpages.Razor.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Helpers.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Mvc.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.Owin.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Http.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Http.Cors.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\System.Web.Http.WebHost.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Newtonsoft.Json.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.Owin.Cors.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Microsoft.Owin.Security.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\obj\Debug\EmployeeMvcApp.csprojResolveAssemblyReference.cache
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\obj\Debug\EmployeeMvcApp.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\obj\Debug\EmployeeMvcApp.pdb
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Unity.Abstractions.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Unity.Container.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Unity.AspNet.WebApi.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Unity.Configuration.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeMvcApp\bin\Unity.AspNet.WebApi.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\csc.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\csc.exe.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\csc.rsp
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\csi.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\csi.rsp
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\System.AppContext.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\vbc.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\vbc.exe.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\vbc.rsp
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\VBCSCompiler.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EmployeeMvcApp.dll.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EmployeeMvcApp.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EmployeeMvcApp.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EmployeeApi.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EntityFramework.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EntityFramework.SqlServer.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Net.Http.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Net.Http.Extensions.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Net.Http.Formatting.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Net.Http.Primitives.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Net.Http.WebRequest.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Helpers.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Mvc.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Razor.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Webpages.Deployment.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Webpages.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Webpages.Razor.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\WebActivatorEx.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.Owin.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Swashbuckle.Core.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Unity.Abstractions.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Unity.Container.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Unity.AspNet.WebApi.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Http.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Owin.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Http.Cors.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Http.WebHost.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Unity.Configuration.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Newtonsoft.Json.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.Owin.Cors.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.Owin.Security.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Cors.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EmployeeApi.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EmployeeApi.dll.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EntityFramework.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\EntityFramework.SqlServer.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Net.Http.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Net.Http.WebRequest.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Razor.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Webpages.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Webpages.Deployment.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Webpages.Razor.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Helpers.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Mvc.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.Owin.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Unity.AspNet.WebApi.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Http.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Http.Cors.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\System.Web.Http.WebHost.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Newtonsoft.Json.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.Owin.Cors.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\bin\Microsoft.Owin.Security.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\obj\Debug\EmployeeMvcApp.csprojResolveAssemblyReference.cache
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\obj\Debug\EmployeeMvcApp.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeMvcApp\obj\Debug\EmployeeMvcApp.pdb
+D:\BitBucket\EmployeeMvcApp\obj\Debug\EmployeeMvcApp.csprojResolveAssemblyReference.cache
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\csc.exe.config
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\csc.rsp
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\csi.rsp
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\vbc.exe.config
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\vbc.rsp
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\VBCSCompiler.exe.config
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\csc.exe
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\csi.exe
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\System.AppContext.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\System.Collections.Immutable.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\System.IO.FileSystem.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\vbc.exe
+D:\BitBucket\EmployeeMvcApp\bin\roslyn\VBCSCompiler.exe
+D:\BitBucket\EmployeeMvcApp\bin\EmployeeMvcApp.dll.config
+D:\BitBucket\EmployeeMvcApp\bin\EmployeeMvcApp.dll
+D:\BitBucket\EmployeeMvcApp\bin\EmployeeMvcApp.pdb
+D:\BitBucket\EmployeeMvcApp\bin\EmployeeApi.dll
+D:\BitBucket\EmployeeMvcApp\bin\EntityFramework.dll
+D:\BitBucket\EmployeeMvcApp\bin\EntityFramework.SqlServer.dll
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.Web.Infrastructure.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Net.Http.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Net.Http.Extensions.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Net.Http.Formatting.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Net.Http.Primitives.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Net.Http.WebRequest.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Helpers.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Mvc.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Razor.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Webpages.Deployment.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Webpages.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Webpages.Razor.dll
+D:\BitBucket\EmployeeMvcApp\bin\WebActivatorEx.dll
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.Owin.dll
+D:\BitBucket\EmployeeMvcApp\bin\Swashbuckle.Core.dll
+D:\BitBucket\EmployeeMvcApp\bin\Unity.Abstractions.dll
+D:\BitBucket\EmployeeMvcApp\bin\Unity.Container.dll
+D:\BitBucket\EmployeeMvcApp\bin\Unity.AspNet.WebApi.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Http.dll
+D:\BitBucket\EmployeeMvcApp\bin\Owin.dll
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Http.Cors.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Http.WebHost.dll
+D:\BitBucket\EmployeeMvcApp\bin\Unity.Configuration.dll
+D:\BitBucket\EmployeeMvcApp\bin\Newtonsoft.Json.dll
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.Owin.Cors.dll
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.Owin.Security.dll
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Cors.dll
+D:\BitBucket\EmployeeMvcApp\bin\EmployeeApi.pdb
+D:\BitBucket\EmployeeMvcApp\bin\EmployeeApi.dll.config
+D:\BitBucket\EmployeeMvcApp\bin\EntityFramework.xml
+D:\BitBucket\EmployeeMvcApp\bin\EntityFramework.SqlServer.xml
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Net.Http.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Net.Http.WebRequest.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Razor.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Webpages.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Webpages.Deployment.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Webpages.Razor.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Helpers.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Mvc.xml
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.Owin.xml
+D:\BitBucket\EmployeeMvcApp\bin\Unity.AspNet.WebApi.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Http.xml
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Http.Cors.xml
+D:\BitBucket\EmployeeMvcApp\bin\System.Web.Http.WebHost.xml
+D:\BitBucket\EmployeeMvcApp\bin\Newtonsoft.Json.xml
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.Owin.Cors.xml
+D:\BitBucket\EmployeeMvcApp\bin\Microsoft.Owin.Security.xml
+D:\BitBucket\EmployeeMvcApp\obj\Debug\EmployeeMvcApp.dll
+D:\BitBucket\EmployeeMvcApp\obj\Debug\EmployeeMvcApp.pdb

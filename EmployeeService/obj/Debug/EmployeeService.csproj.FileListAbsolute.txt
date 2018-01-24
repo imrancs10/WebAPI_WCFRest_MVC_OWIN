@@ -1,0 +1,67 @@
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\EmployeeService.dll.config
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\EmployeeService.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\EmployeeService.pdb
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\EntityFramework.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\EntityFramework.SqlServer.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Web.Infrastructure.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Newtonsoft.Json.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\EntityFramework.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\EntityFramework.SqlServer.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Newtonsoft.Json.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\obj\Debug\EmployeeService.pdb
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Unity.Wcf.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Practices.Unity.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Practices.Unity.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Nagarro Work\onSolve\GitHubDemo\EmployeeService\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\EmployeeService.dll.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\EmployeeService.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\EmployeeService.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\EntityFramework.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\EntityFramework.SqlServer.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Practices.Unity.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Web.Infrastructure.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Newtonsoft.Json.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Unity.Wcf.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\EntityFramework.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\EntityFramework.SqlServer.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Practices.Unity.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\bin\Newtonsoft.Json.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\obj\Debug\EmployeeService.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService\obj\Debug\EmployeeService.pdb
+D:\BitBucket\EmployeeService\bin\EmployeeService.dll.config
+D:\BitBucket\EmployeeService\bin\EmployeeService.dll
+D:\BitBucket\EmployeeService\bin\EmployeeService.pdb
+D:\BitBucket\EmployeeService\bin\EntityFramework.dll
+D:\BitBucket\EmployeeService\bin\EntityFramework.SqlServer.dll
+D:\BitBucket\EmployeeService\bin\Microsoft.Practices.ServiceLocation.dll
+D:\BitBucket\EmployeeService\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\BitBucket\EmployeeService\bin\Microsoft.Practices.Unity.dll
+D:\BitBucket\EmployeeService\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\BitBucket\EmployeeService\bin\Microsoft.Web.Infrastructure.dll
+D:\BitBucket\EmployeeService\bin\Newtonsoft.Json.dll
+D:\BitBucket\EmployeeService\bin\Unity.Wcf.dll
+D:\BitBucket\EmployeeService\bin\EntityFramework.xml
+D:\BitBucket\EmployeeService\bin\EntityFramework.SqlServer.xml
+D:\BitBucket\EmployeeService\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\BitBucket\EmployeeService\bin\Microsoft.Practices.ServiceLocation.xml
+D:\BitBucket\EmployeeService\bin\Microsoft.Practices.Unity.xml
+D:\BitBucket\EmployeeService\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\BitBucket\EmployeeService\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\BitBucket\EmployeeService\bin\Newtonsoft.Json.xml
+D:\BitBucket\EmployeeService\obj\Debug\EmployeeService.dll
+D:\BitBucket\EmployeeService\obj\Debug\EmployeeService.pdb
+D:\BitBucket\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache

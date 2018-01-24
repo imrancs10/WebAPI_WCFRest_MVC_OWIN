@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Content/JS/jquery-2.2.4.min.js"></script>
+    <script src="~/Content/JS/bootstrap.min.js"></script>
+</head>
+<body>
+    <script type="text/javascript">
+         window.applicationBaseUrl = @Html.Raw(HttpUtility.JavaScriptStringEncode(
+                               new Uri(new Uri(this.Context.Request.Url.GetLeftPart(UriPartial.Authority)),Url.Content("~/")).ToString(), true));
+    </script>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

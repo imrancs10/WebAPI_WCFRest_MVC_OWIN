@@ -1,0 +1,106 @@
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\EmployeeService.Tests.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\EmployeeService.Tests.pdb
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Castle.Core.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\EmployeeService.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Moq.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\System.ValueTuple.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\EntityFramework.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Unity.Wcf.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\EmployeeService.pdb
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\EmployeeService.dll.config
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Castle.Core.xml
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Moq.pdb
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Moq.xml
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\EntityFramework.xml
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\obj\Debug\EmployeeService.Tests.csprojResolveAssemblyReference.cache
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\obj\Debug\EmployeeService.Tests.dll
+D:\GitHubDemo\WpfAppSampleApp\EmployeeService.Tests\obj\Debug\EmployeeService.Tests.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\EmployeeService.Tests.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\EmployeeService.Tests.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Castle.Core.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\EmployeeService.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Moq.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\System.ValueTuple.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\EntityFramework.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Unity.Wcf.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\EmployeeService.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\EmployeeService.dll.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Castle.Core.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Moq.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Moq.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\EntityFramework.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\obj\Debug\EmployeeService.Tests.csprojResolveAssemblyReference.cache
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\obj\Debug\EmployeeService.Tests.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\EmployeeService.Tests\obj\Debug\EmployeeService.Tests.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\EmployeeService.Tests.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\EmployeeService.Tests.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Castle.Core.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\EmployeeService.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Moq.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\System.ValueTuple.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\EntityFramework.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Unity.Wcf.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\EmployeeService.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\EmployeeService.dll.config
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Castle.Core.xml
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Moq.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Moq.xml
+D:\BitBucket\EmployeeService.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BitBucket\EmployeeService.Tests\bin\Debug\EntityFramework.xml
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\BitBucket\EmployeeService.Tests\obj\Debug\EmployeeService.Tests.csprojResolveAssemblyReference.cache
+D:\BitBucket\EmployeeService.Tests\obj\Debug\EmployeeService.Tests.dll
+D:\BitBucket\EmployeeService.Tests\obj\Debug\EmployeeService.Tests.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Code2Xml.Core.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Code2Xml.Languages.ANTLRv3.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Code2Xml.Languages.ExternalGenerators.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Code2Xml.Objects.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Paraiba.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Paraiba.Experiment.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\TreeDotNet.dll
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Code2Xml.Core.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Code2Xml.Languages.ANTLRv3.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Code2Xml.Languages.ExternalGenerators.pdb
+D:\BitBucket\EmployeeService.Tests\bin\Debug\Code2Xml.Objects.pdb

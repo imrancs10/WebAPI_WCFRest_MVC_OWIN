@@ -1,0 +1,58 @@
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\bin\Debug\WpfAppSampleApp.exe.config
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\bin\Debug\WpfAppSampleApp.exe
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\bin\Debug\WpfAppSampleApp.pdb
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\bin\Debug\System.Web.Http.dll
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\bin\Debug\System.Web.Http.xml
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\MainWindow.g.cs
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\App.g.cs
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\WpfAppSampleApp_MarkupCompile.cache
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\WpfAppSampleApp_MarkupCompile.lref
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\MainWindow.baml
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.g.resources
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.Properties.Resources.resources
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.csproj.GenerateResource.Cache
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.exe
+C:\Nagarro Work\onSolve\GitHubDemo\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\bin\Debug\WpfAppSampleApp.exe.config
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\bin\Debug\WpfAppSampleApp.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\bin\Debug\WpfAppSampleApp.pdb
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\bin\Debug\System.Web.Http.dll
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\bin\Debug\System.Web.Http.xml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\MainWindow.g.cs
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\App.g.cs
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\WpfAppSampleApp_MarkupCompile.cache
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\WpfAppSampleApp_MarkupCompile.lref
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\MainWindow.baml
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.g.resources
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.Properties.Resources.resources
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.csproj.GenerateResource.Cache
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.exe
+C:\Nagarro Work\onSolve\BitBucketDemoApplication\EmployeeDemoDev\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.pdb
+D:\BitBucket\WpfAppSampleApp\bin\Debug\WpfAppSampleApp.exe.config
+D:\BitBucket\WpfAppSampleApp\bin\Debug\WpfAppSampleApp.exe
+D:\BitBucket\WpfAppSampleApp\bin\Debug\WpfAppSampleApp.pdb
+D:\BitBucket\WpfAppSampleApp\bin\Debug\Newtonsoft.Json.dll
+D:\BitBucket\WpfAppSampleApp\obj\Debug\MainWindow.g.cs
+D:\BitBucket\WpfAppSampleApp\obj\Debug\App.g.cs
+D:\BitBucket\WpfAppSampleApp\obj\Debug\WpfAppSampleApp_MarkupCompile.cache
+D:\BitBucket\WpfAppSampleApp\obj\Debug\WpfAppSampleApp_MarkupCompile.lref
+D:\BitBucket\WpfAppSampleApp\obj\Debug\MainWindow.baml
+D:\BitBucket\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.g.resources
+D:\BitBucket\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.Properties.Resources.resources
+D:\BitBucket\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.csproj.GenerateResource.Cache
+D:\BitBucket\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.exe
+D:\BitBucket\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.pdb
+D:\BitBucket\WpfAppSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+D:\BitBucket\WpfAppSampleApp\bin\Debug\System.Web.Http.dll
+D:\BitBucket\WpfAppSampleApp\bin\Debug\Newtonsoft.Json.xml
+D:\BitBucket\WpfAppSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+D:\BitBucket\WpfAppSampleApp\bin\Debug\System.Web.Http.xml
+D:\BitBucket\WpfAppSampleApp\obj\Debug\WpfAppSampleApp.csprojResolveAssemblyReference.cache

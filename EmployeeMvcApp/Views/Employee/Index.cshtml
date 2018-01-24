@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+
+<script src="~/Content/JS/employee.js"></script>
+<div class="col-md-10 col-md-offset-1" style="padding-top:50px">
+    <div class="well">
+        <table class="table table-bordered">
+            <thead>
+                <tr class="success">
+                    <th>
+                        Employee List
+                    </th>
+                    <th style="width:15%">
+                        <a class="btn btn-danger" id="btnLogout">Logout</a>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="2">
+                        <table class="table" id="tableEmployees">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th scope="col">ID</th>
+                                    <th scope="col">First Name</th>
+                                    <th scope="col">Last Name</th>
+                                    <th scope="col">Gender</th>
+                                    <th scope="col">Salary</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </td>
+
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
